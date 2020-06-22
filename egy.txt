@@ -2,3 +2,5 @@ haligali
 <br>zsolti
 macska
 kutya
+isti
+cica
